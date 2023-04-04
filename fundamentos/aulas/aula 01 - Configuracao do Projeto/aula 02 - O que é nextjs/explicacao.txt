@@ -1,0 +1,5 @@
+O que é next.js?
+
+O next.js é a versão framework do react e ele acrescenta ao react uma série de funcionalidades para facilitar o desenvolvimento da aplicação.
+
+Ele traz uma aplicação pré pronta.
