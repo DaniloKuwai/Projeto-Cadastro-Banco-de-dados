@@ -1,0 +1,14 @@
+Vamos iniciar o nosso projeto utilizando o next.js.
+
+Primeiramente vamos fazer a instalação dele com o seguinte comando no terminal
+
+-> npx create-next-app@12.2.0 fundamentos
+
+-> o npx é para fazer a instalação temporária
+-> o next é para dizer que é um projeto com next.js
+-> o app também, depois o @ é a versão do next.js, no caso é a versão da aula que está sendo feito
+-> e o fundamentos é o nome do projeto.
+
+Após isso, para organizar melhor, vamos criar uma pasta src e dentro dela vamos jogar as seguintes pastas para dentro do src
+-> pages
+-> styles
